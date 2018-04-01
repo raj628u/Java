@@ -1,0 +1,6 @@
+java.lang.ArithmeticException: / by zero
+	at Xyz.m3(ExapmpleFile.java:67)
+	at Xyz.m2(ExapmpleFile.java:60)
+	at Xyz.m1(ExapmpleFile.java:53)
+	at Xyz.m(ExapmpleFile.java:46)
+	at ExapmpleFile.main(ExapmpleFile.java:21)
